@@ -12,7 +12,7 @@ The **demo/index.html** file in this repository contains **all** the playground 
 
 You can learn how to to integrate your Appwrite JS SDK in your project and see how different features of the SDK can be used.
 
-This playground doesn't include any Appwrite best practices but rather intended to show the most simple examples and use cases of using the Appwrite API.
+This playground doesn't include any Appwrite's best practices but rather shows the most simple examples and cases of using the Appwrite API.
 
 ### Installation
 
